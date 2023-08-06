@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">triangleСhecker</string>
+    <string name="inputA">Введите сторону A</string>
+    <string name="inputB">Введите сторону B</string>
+    <string name="inputC">Введите сторону C</string>
+    <string name="result">Результат:&#160;</string>
+    <string name="buttonCheck">Проверить</string>
+    <string name="errorA">Введите значение А</string>
+    <string name="errorB">Введите значение B</string>
+    <string name="errorC">Введите значение C</string>
+    <string name="positiveResult">Треугольник существует</string>
+    <string name="negativeResult">Треугольник не существует</string>
+</resources>
